@@ -28,6 +28,9 @@ import java.util.List;
 /**
  * MethodConfig
  *
+ * 方法级配置。
+ * 属性参见：http://dubbo.io/books/dubbo-user-book/references/xml/dubbo-method.html 。
+ *
  * @export
  */
 public class MethodConfig extends AbstractMethodConfig {
